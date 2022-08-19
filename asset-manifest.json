@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://malik-bouaoud.000webhostapp.com/static/css/main.bab0b925.chunk.css",
+    "main.js": "https://malik-bouaoud.000webhostapp.com/static/js/main.1b25d89e.chunk.js",
+    "main.js.map": "https://malik-bouaoud.000webhostapp.com/static/js/main.1b25d89e.chunk.js.map",
+    "runtime-main.js": "https://malik-bouaoud.000webhostapp.com/static/js/runtime-main.333a4aac.js",
+    "runtime-main.js.map": "https://malik-bouaoud.000webhostapp.com/static/js/runtime-main.333a4aac.js.map",
+    "static/js/2.5c36d3b4.chunk.js": "https://malik-bouaoud.000webhostapp.com/static/js/2.5c36d3b4.chunk.js",
+    "static/js/2.5c36d3b4.chunk.js.map": "https://malik-bouaoud.000webhostapp.com/static/js/2.5c36d3b4.chunk.js.map",
+    "static/js/3.ecd942ca.chunk.js": "https://malik-bouaoud.000webhostapp.com/static/js/3.ecd942ca.chunk.js",
+    "static/js/3.ecd942ca.chunk.js.map": "https://malik-bouaoud.000webhostapp.com/static/js/3.ecd942ca.chunk.js.map",
+    "index.html": "https://malik-bouaoud.000webhostapp.com/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "https://malik-bouaoud.000webhostapp.com/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.5c36d3b4.chunk.js.LICENSE.txt": "https://malik-bouaoud.000webhostapp.com/static/js/2.5c36d3b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.333a4aac.js",
+    "static/js/2.5c36d3b4.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.1b25d89e.chunk.js"
+  ]
+}
