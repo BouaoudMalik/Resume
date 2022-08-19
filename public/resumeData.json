@@ -109,7 +109,7 @@
       },
       {
         "title":"Anime",
-        "image":"A4.JPG"
+        "image":"A4.jpg"
       }
     ]
   },
@@ -131,7 +131,7 @@
       {
         "title":"Tykuiz",
         "category":"web Application developped with React JS and Tomcat Servlet, it's a quiz platform for IT Interviews.",
-        "image":"03.PNG",
+        "image":"03.jpg",
         "url":"https://github.com/BouaoudMalik/Tykquiz"
       },
       {
