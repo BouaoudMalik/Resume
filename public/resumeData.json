@@ -1,185 +1,146 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Malik Bouaoud",
+    "description":"Resume",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"Hi! I'm Malik, a 22-year-old IT student at the Sorbonne University. I define myself as a hard-working, stubborn dreamer because I always figure out a way to achieve my goals. I am looking for an excellent internship opportunity that will help me push my limits and let me evolve. So, if you're giving me that opportunity, please let me know!",
+    "contactmessage":"Interested? Great, Let's talk!  ",
+    "email": "malikbouaoud1@icloud.com",
+    "phone": "",
+    "github":"https://github.com/BouaoudMalik",
+    "project":"https://github.com/BouaoudMalik?tab=repositories",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"",
+      "city":"Paris",
+      "state":"France",
+      "zip": "75000"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"./resumeInternship.pdf",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/malik-bouaoud/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/BouaoudMalik",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"SOLID, SONAR ,Design patterns, TDD, MVC Architecture , Clean Code, DRY, Scrum.",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Sorbonne University",
+        "degree":"Masters in Software's Science and Technologies",
+        "graduated":"September 2023",
+        "description":"Courses : Advanced algorithmic, Advanced functional programming, Model and language for advanced data bases,concurrent-recurrent-distributed-reticular programmation , components, programms and semantic analyses."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Lille University",
+        "degree":"Bachelor in Computer Science",
+        "graduated":"June 2021",
+        "description":"Courses : Algorithmic, graph theory, Automata theory, linear model, functional programming, object-oriented programming , Biological computing , calculus, algebra, probability and statistics. "
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        
+        "title":"Research Assistant - LIP6 Research Laboratory  ",
+        "company":" Summer Internship ",
+        "years":"June 2022 - July 2022",
+        "description":"Practical study of the satisability of Json Schema including, Improvement of the existing, Participation in experiments and Research article study.",
+        "devSkills": "Java, Json, Json Schema"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "title":"Web Developper Intern  - AndersonTech",
+        "company":"Bachelor Degree Internship",
+        "years":"April 2021 - July 2021",
+        "description":" During 4 mounths I implemented a Geographic information system using Leaflet and developped a Customer Relationship Management",
+        "devSkills": "Leaflet, JavaScript, PHP, Laravel, LiveWire"
+
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
+        "name":"JAVA",
+        "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"Python",
+        "level":"70%"
       },
       {
         "name":"ReactJs",
         "level":"50%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
+        "name":"Haskell",
         "level":"80%"
       },
       {
-        "name":"Swift",
+        "name":"SQL",
+        "level":"100%"
+      },
+      {
+        "name":"Git",
         "level":"50%"
+      }
+      
+    ]
+  },
+  "artProjects":{
+    "arts": [
+      {
+        "title":"Portraits",
+        "image":"A1.jpg"
+      },
+      
+      {
+        "title":"The starry night",
+        "image":"A2.jpg"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "title":"The great wave off nakagawa",
+        "image":"A3.jpg"
+      },
+      {
+        "title":"Anime",
+        "image":"A4.JPG"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
+        "title":"Ricochet Robot Solver",
+        "category":"Inspired by the famous board game RRS, based on A* Algorithm for search path, Gradle, JavaFX. ",
+        "image":"01.PNG",
+        "url":"https://github.com/BouaoudMalik/Ricochet-robot-solver"
+      },
+      
+      {
+        "title":"Auction",
+        "category":"Java Simulator for English and Threshold auctions, Based on Components and Distributed Architectures.",
+        "image":"02.jpeg",
         "url":"https://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Tykuiz",
+        "category":"web Application developped with React JS and Tomcat Servlet, it's a quiz platform for IT Interviews.",
+        "image":"03.PNG",
+        "url":"https://github.com/BouaoudMalik/Tykquiz"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
+        "title":"Biological Data Analyst",
+        "category":"Python application that search for the encoding proteing part from a given ADN Using the NCBI DataBase.",
+        "image":"04.jpeg",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
       }
     ]
   }
-}
+  }
+

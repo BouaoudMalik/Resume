@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import Fade from "react-reveal";
 
+
+
 class About extends Component {
   render() {
     if (!this.props.data) return null;
@@ -15,6 +17,10 @@ class About extends Component {
     const phone = this.props.data.phone;
     const email = this.props.data.email;
     const resumeDownload = this.props.data.resumedownload;
+    const skills = [
+      {type: "Java", level: 85},
+      {type: "Javascript", level: 75},
+    ];
 
     return (
       <section id="about">
@@ -50,11 +56,16 @@ class About extends Component {
                 </div>
                 <div className="columns download">
                   <p>
-                    <a href={resumeDownload} className="button">
+                    <a href={resumeDownload} className="button" download>
                       <i className="fa fa-download"></i>Download Resume
                     </a>
                   </p>
                 </div>
+              </div>
+
+              <div className="languages">
+              <h2>Languages Skills </h2>
+              <p>Im fluent in French, English and  Arabic, and now Im starting Italian ! </p>
               </div>
             </div>
           </div>

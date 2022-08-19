@@ -181,12 +181,14 @@ ul#nav li.current a { color: #fe6928; }
 /* c. About Section
 /* ------------------------------------------------------------------ */
 
-#about {
+#about{
    background: #000524;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
 }
+
+
 
 #about a, #about a:visited  { color: #fff; }
 #about a:hover, #about a:focus { color: #0762f9; }
@@ -261,6 +263,26 @@ ul#nav li.current a { color: #fe6928; }
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
 }
+
+
+#artPortfolio {
+   background: #D5F5E3;
+   padding-top: 96px;
+   padding-bottom: 66px;
+   overflow: hidden;
+
+}
+
+#artPortfolio h1 {
+   font: 15px/24px 'opensans-semibold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   text-align: center;
+   margin-bottom: 48px;
+   color: #000000;
+}
+
+
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
    color: #6E7881;
@@ -412,9 +434,10 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: #A9CCE3;
    padding-top: 90px;
    padding-bottom: 60px;
+   overflow: hidden;
 }
 #portfolio h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
@@ -422,13 +445,13 @@ ul#nav li.current a { color: #fe6928; }
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #95A3A3;
+   color: #000000;
 }
 
 /* Portfolio Content */
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
-   background: #fff;
+   background: rgba(255, 255, 255, 0.652);
    overflow: hidden;
    position: relative;
 

@@ -49,6 +49,12 @@ class Header extends Component {
             </li>
 
             <li>
+              <a className="smoothscroll" href="#artPortfolio">
+                Art
+              </a>
+            </li>
+
+            <li>
               <a className="smoothscroll" href="#contact">
                 Contact
               </a>
@@ -67,9 +73,6 @@ class Header extends Component {
             <hr />
             <Fade bottom duration={2000}>
               <ul className="social">
-                <a href={project} className="button btn project-btn">
-                  <i className="fa fa-book"></i>Project
-                </a>
                 <a href={github} className="button btn github-btn">
                   <i className="fa fa-github"></i>Github
                 </a>
