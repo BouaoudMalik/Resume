@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name":"Malik Bouaoud",
+    "description":"Resume",
+    "image":"profilepic.jpg",
+    "bio":"Hi! I'm Malik, a 22-year-old IT student at the Sorbonne University. I define myself as a hard-working, stubborn dreamer because I always figure out a way to achieve my goals. I am looking for an excellent internship opportunity that will help me push my limits and let me evolve. So, if you're giving me that opportunity, please let me know!",
+    "contactmessage":"Interested? Great, Let's talk!  ",
+    "email": "malikbouaoud1@icloud.com",
+    "phone": "",
+    "github":"https://github.com/BouaoudMalik",
+    "project":"https://github.com/BouaoudMalik?tab=repositories",
+    "address":{
+      "street":"",
+      "city":"Paris",
+      "state":"France",
+      "zip": "75000"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"./resumeInternship.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/malik-bouaoud/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/BouaoudMalik",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"SOLID, SONAR ,Design patterns, TDD, MVC Architecture , Clean Code, DRY, Scrum.",
+    "education":[
+      {
+        "school":"Sorbonne University",
+        "degree":"Masters in Software's Science and Technologies",
+        "graduated":"September 2023",
+        "description":"Courses : Advanced algorithmic, Advanced functional programming, Model and language for advanced data bases,concurrent-recurrent-distributed-reticular programmation , components, programms and semantic analyses."
+      },
+      {
+        "school":"Lille University",
+        "degree":"Bachelor in Computer Science",
+        "graduated":"June 2021",
+        "description":"Courses : Algorithmic, graph theory, Automata theory, linear model, functional programming, object-oriented programming , Biological computing , calculus, algebra, probability and statistics. "
+      }
+    ],
+    "work":[
+      {
+        
+        "title":"Research Assistant - LIP6 Research Laboratory  ",
+        "company":" Summer Internship ",
+        "years":"June 2022 - July 2022",
+        "description":"Practical study of the satisability of Json Schema including, Improvement of the existing, Participation in experiments and Research article study.",
+        "devSkills": "Java, Json, Json Schema"
+      },
+      {
+        "title":"Web Developper Intern  - AndersonTech",
+        "company":"Bachelor Degree Internship",
+        "years":"April 2021 - July 2021",
+        "description":" During 4 mounths I implemented a Geographic information system using Leaflet and developped a Customer Relationship Management",
+        "devSkills": "Leaflet, JavaScript, PHP, Laravel, LiveWire"
+
+      }
+    ],
+    "skills":[
+      {
+        "name":"JAVA",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"Haskell",
+        "level":"80%"
+      },
+      {
+        "name":"SQL",
+        "level":"100%"
+      },
+      {
+        "name":"Git",
+        "level":"50%"
+      }
+      
+    ]
+  },
+  "artProjects":{
+    "arts": [
+      {
+        "title":"Portraits",
+        "image":"A1.jpg"
+      },
+      
+      {
+        "title":"The starry night",
+        "image":"A2.jpg"
+      },
+      {
+        "title":"The great wave off nakagawa",
+        "image":"A3.jpg"
+      },
+      {
+        "title":"Anime",
+        "image":"A4.jpg"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Ricochet Robot Solver",
+        "category":"Inspired by the famous board game RRS, based on A* Algorithm for search path, Gradle, JavaFX. ",
+        "image":"01.jpg",
+        "url":"https://github.com/BouaoudMalik/Ricochet-robot-solver"
+      },
+      
+      {
+        "title":"Auction",
+        "category":"Java Simulator for English and Threshold auctions, Based on Components and Distributed Architectures.",
+        "image":"02.jpeg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Tykuiz",
+        "category":"web Application developped with React JS and Tomcat Servlet, it's a quiz platform for IT Interviews.",
+        "image":"03.jpg",
+        "url":"https://github.com/BouaoudMalik/Tykquiz"
+      },
+      {
+        "title":"Biological Data Analyst",
+        "category":"Python application that search for the encoding proteing part from a given ADN Using the NCBI DataBase.",
+        "image":"04.jpeg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      }
+    ]
+  }
+  }
+
